@@ -12,9 +12,9 @@
 ### Creating a database
 
 - CREATE TABLE <table_name> (
-    <column_name> <datatype>,
-    <column_name> <datatype>,
-    <column_name> <datatype>,
+    <column_name> datatype,
+    <column_name> datatype,
+    <column_name> datatype,
     ......
   );
 
